@@ -8,5 +8,7 @@ target 'Breakpoint' do
   # Pods for Breakpoint
 
 pod 'Firebase/Core'
+pod 'Firebase/Database'
+pod 'Firebase/Auth'
 
 end
