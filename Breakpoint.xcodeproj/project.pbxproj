@@ -13,6 +13,7 @@
 		B48B518E228B38D4007FCFC6 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48B518D228B38D4007FCFC6 /* LoginVC.swift */; };
 		B48B5190228B3937007FCFC6 /* ShadowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48B518F228B3937007FCFC6 /* ShadowView.swift */; };
 		B48B5192228B3A72007FCFC6 /* InsertTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48B5191228B3A72007FCFC6 /* InsertTextField.swift */; };
+		B48B5194228B464D007FCFC6 /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B48B5193228B464D007FCFC6 /* AuthService.swift */; };
 		B4C0D19E2289E89B00C7FC7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C0D19D2289E89B00C7FC7E /* AppDelegate.swift */; };
 		B4C0D1A02289E89B00C7FC7E /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C0D19F2289E89B00C7FC7E /* FirstViewController.swift */; };
 		B4C0D1A22289E89B00C7FC7E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C0D1A12289E89B00C7FC7E /* SecondViewController.swift */; };
@@ -30,6 +31,7 @@
 		B48B518D228B38D4007FCFC6 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		B48B518F228B3937007FCFC6 /* ShadowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowView.swift; sourceTree = "<group>"; };
 		B48B5191228B3A72007FCFC6 /* InsertTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertTextField.swift; sourceTree = "<group>"; };
+		B48B5193228B464D007FCFC6 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 		B4C0D19A2289E89B00C7FC7E /* Breakpoint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Breakpoint.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4C0D19D2289E89B00C7FC7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4C0D19F2289E89B00C7FC7E /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				B48B516B2289F335007FCFC6 /* DataService.swift */,
+				B48B5193228B464D007FCFC6 /* AuthService.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				B48B518C228B387F007FCFC6 /* AuthVC.swift in Sources */,
 				B4C0D1A22289E89B00C7FC7E /* SecondViewController.swift in Sources */,
 				B48B518E228B38D4007FCFC6 /* LoginVC.swift in Sources */,
+				B48B5194228B464D007FCFC6 /* AuthService.swift in Sources */,
 				B4C0D19E2289E89B00C7FC7E /* AppDelegate.swift in Sources */,
 				B4C0D1A02289E89B00C7FC7E /* FirstViewController.swift in Sources */,
 				B48B516C2289F335007FCFC6 /* DataService.swift in Sources */,
